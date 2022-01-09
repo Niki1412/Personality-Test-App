@@ -1,0 +1,4 @@
+#Sun Dec 26 23:42:40 IST 2021
+base.0=/Users/dakshita/Documents/Apps/flutter_complete_guide/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
